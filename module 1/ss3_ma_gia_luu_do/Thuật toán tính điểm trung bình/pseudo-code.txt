@@ -1,0 +1,7 @@
+Begin
+  Input Math
+  Input Physics
+  Input Chemistry
+  A = (Math + Physics + Chemistry)/3
+  Display A
+End
