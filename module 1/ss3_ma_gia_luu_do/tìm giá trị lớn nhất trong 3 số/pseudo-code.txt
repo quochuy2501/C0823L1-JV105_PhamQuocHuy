@@ -1,0 +1,14 @@
+begin
+  input a
+  input b
+  input c
+  if a>=b and a>=c
+  display a
+    else
+      if b>=a and b>=c
+      display b
+         else
+           display c
+      end if 
+  end if
+end

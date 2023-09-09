@@ -1,0 +1,26 @@
+begin 
+  input n
+    if n=0
+      display "empty"
+    else
+      if n<0 and n is not an integer
+       display "error"
+         else 
+           if n>0
+             i=1
+             input a1
+             amax = a1
+              while (i<n)
+              do
+                input ai
+                display ai
+                i=i+1
+                  if ai>amax
+                    amax=ai
+                  end if
+             end do
+             display amax
+           end if  
+      end if
+    end if
+end

@@ -1,0 +1,24 @@
+begin
+  input score
+   if score>100 and score<0
+      display "Error"
+     else 
+       if score>=75
+          display A
+       else
+         if score<75 and score>=60
+            display B
+         else
+           if score<60 and score>=45
+              display C
+           else
+             if score<45 and score>=35
+                display D
+             else
+                 display E
+             end if  
+           end if             
+         end if
+       end if   
+   end if
+end
