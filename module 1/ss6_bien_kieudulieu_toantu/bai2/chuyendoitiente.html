@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <title>Chuyển đổi tiền tệ</title>
-    .convert 
 </head>
 <body>
     <label for="tien" style="text-align: center" >Amount</label><br>
@@ -14,11 +13,11 @@
         <option>USD</option>
     </select><br>
     <label for="tien3" style="text-align: center" >From currency</label><br>
-    <select>
+    <select id="tien3">
         <option>USD</option>
         <option>VNĐ</option>
     </select><br>
-    <button type="button" onclick="ChuyenDoiTienTe()">Convert</button>
-
+    <button style="background: blue" type="button" onclick="ChuyenDoiTienTe()">Convert</button>
+    <script src="chuyendoitiente.js"></script>
 </body>
 </html>
