@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a551b4c4-8102-45c7-b463-2426e3ec9e23" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai2/chuyendoitiente.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai2/chuyendoitiente.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai2/chuyendoitiente.js" beforeDir="false" afterPath="$PROJECT_DIR$/bai2/chuyendoitiente.js" afterDir="false" />
+    <list default="true" id="37b59272-cc05-46ad-af37-47cb26ee4c9a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ss6_bien_kieudulieu_toantu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ss6_bien_kieudulieu_toantu/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss6_bien_kieudulieu_toantu/bai2/chuyendoitiente.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ss6_bien_kieudulieu_toantu/bai2/chuyendoitiente.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss6_bien_kieudulieu_toantu/bai2/chuyendoitiente.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ss6_bien_kieudulieu_toantu/bai2/chuyendoitiente.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doyouloveme/doyouloveme.html" beforeDir="false" afterPath="$PROJECT_DIR$/doyouloveme/doyouloveme.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,21 +18,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
+  &quot;associatedIndex&quot;: 2
 }</component>
-  <component name="ProjectId" id="2VfA8LVC78lfXzOmZLMPfw00L0U" />
+  <component name="ProjectId" id="2VyhDX5KM0RsgKtKK7hQWBlfPyv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,36 +52,19 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a551b4c4-8102-45c7-b463-2426e3ec9e23" name="Changes" comment="" />
-      <created>1695216600622</created>
+      <changelist id="37b59272-cc05-46ad-af37-47cb26ee4c9a" name="Changes" comment="" />
+      <created>1695814108119</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1695216600622</updated>
-      <workItem from="1695216602853" duration="2463000" />
-      <workItem from="1695220206094" duration="198000" />
-      <workItem from="1695270662510" duration="2274000" />
-      <workItem from="1695274883836" duration="3353000" />
-      <workItem from="1695298770250" duration="1370000" />
-      <workItem from="1695357735010" duration="3326000" />
-      <workItem from="1695361746900" duration="4105000" />
-      <workItem from="1695389396721" duration="3507000" />
-      <workItem from="1695557067554" duration="454000" />
-      <workItem from="1695570765461" duration="59000" />
+      <updated>1695814108119</updated>
+      <workItem from="1695814113243" duration="79000" />
+      <workItem from="1695814203961" duration="937000" />
+      <workItem from="1695815158918" duration="9052000" />
+      <workItem from="1695964022551" duration="1042000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/bai3/calculator.js</url>
-          <line>22</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

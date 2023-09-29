@@ -1,5 +1,5 @@
 function ChuyenDoiTienTe() {
     let vnd = +document.getElementById("tien").value;
-    let usd=vnd*0.0000435;
+    let usd=vnd*(1/23000);
     alert(usd)
 }
