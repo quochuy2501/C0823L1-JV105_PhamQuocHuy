@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37b59272-cc05-46ad-af37-47cb26ee4c9a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../ss6_bien_kieudulieu_toantu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ss6_bien_kieudulieu_toantu/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ss6_bien_kieudulieu_toantu/bai2/chuyendoitiente.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ss6_bien_kieudulieu_toantu/bai2/chuyendoitiente.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ss6_bien_kieudulieu_toantu/bai2/chuyendoitiente.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ss6_bien_kieudulieu_toantu/bai2/chuyendoitiente.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/doyouloveme/doyouloveme.html" beforeDir="false" afterPath="$PROJECT_DIR$/doyouloveme/doyouloveme.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -60,7 +58,9 @@
       <workItem from="1695814113243" duration="79000" />
       <workItem from="1695814203961" duration="937000" />
       <workItem from="1695815158918" duration="9052000" />
-      <workItem from="1695964022551" duration="1042000" />
+      <workItem from="1695964022551" duration="1320000" />
+      <workItem from="1695992128577" duration="33000" />
+      <workItem from="1696245017841" duration="5607000" />
     </task>
     <servers />
   </component>
