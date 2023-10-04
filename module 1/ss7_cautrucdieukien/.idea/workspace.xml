@@ -6,7 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="37b59272-cc05-46ad-af37-47cb26ee4c9a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doyouloveme/doyouloveme.html" beforeDir="false" afterPath="$PROJECT_DIR$/doyouloveme/doyouloveme.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doyouloveme/1a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doyouloveme/1b.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doyouloveme/1b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doyouloveme/1c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doyouloveme/1c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doyouloveme/1d.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doyouloveme/1d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doyouloveme/1e.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doyouloveme/1e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doyouloveme/doyouloveme.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,21 +41,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/CODEGYM/C0823L1-JV105_PhamQuocHuy/module 1/ss8_vonglap",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,7 +70,8 @@
       <workItem from="1695815158918" duration="9052000" />
       <workItem from="1695964022551" duration="1320000" />
       <workItem from="1695992128577" duration="33000" />
-      <workItem from="1696245017841" duration="5607000" />
+      <workItem from="1696245017841" duration="6440000" />
+      <workItem from="1696251795581" duration="72000" />
     </task>
     <servers />
   </component>
