@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Caro Board</title>
+  <style>
+    /* CSS để thiết lập kích thước của ô */
+    .cell {
+      width: 50px;
+      height: 50px;
+      border: 1px solid #000;
+      text-align: center;
+      font-size: 24px;
+      cursor: pointer;
+    }
+
+    /* CSS để tạo bàn cờ 10x10 */
+    .board {
+      display: grid;
+      grid-template-columns: repeat(4, 0fr);
+    }
+  </style>
+</head>
+<body>
+<div class="board" id="caro-board">
+</div>
+
+<script src="tictactoe.js"></script>
+</body>
+</html>

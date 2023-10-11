@@ -1,7 +1,7 @@
-let numbers = prompt("nhập n số nguyên tố đầu tiên")
+// let numbers = prompt("nhập n số nguyên tố đầu tiên")
+let numbers = 5
 let count = 0
 let countsnt = 0
-debugger
 for (let i = 2; i < 1000; i++) {
     if (countsnt<numbers) {
         for (let j = 1; j <=i; j++) {

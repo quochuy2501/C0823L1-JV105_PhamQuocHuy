@@ -1,5 +1,5 @@
-let n=6 ;
-for (let row=0 ;row<n ;row++) {
+let n=6
+for (let row=0 ;row<n;row++) {
     for(let col=0;col<n+1;col++) {
         if ((row === 0 && col % 3 !== 0)
             || (row === 1 && col % 3 === 0)

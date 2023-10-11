@@ -6,16 +6,20 @@
   <component name="ChangeListManager">
     <list default="true" id="37b59272-cc05-46ad-af37-47cb26ee4c9a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doyouloveme/1a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doyouloveme/1b.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doyouloveme/1b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doyouloveme/1c.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doyouloveme/1c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doyouloveme/1d.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doyouloveme/1d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doyouloveme/1e.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doyouloveme/1e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doyouloveme/doyouloveme.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doyouloveme/1.1/1a.js" beforeDir="false" afterPath="$PROJECT_DIR$/dieukien1/1.1/1a.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doyouloveme/1.1/doyouloveme.html" beforeDir="false" afterPath="$PROJECT_DIR$/dieukien1/1.1/doyouloveme.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doyouloveme/1.2/1b.html" beforeDir="false" afterPath="$PROJECT_DIR$/dieukien1/1.2/1b.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doyouloveme/1.2/1b.js" beforeDir="false" afterPath="$PROJECT_DIR$/dieukien1/1.2/1b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doyouloveme/1.3/1c.html" beforeDir="false" afterPath="$PROJECT_DIR$/dieukien1/1.3/1c.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doyouloveme/1.3/1c.js" beforeDir="false" afterPath="$PROJECT_DIR$/dieukien1/1.3/1c.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doyouloveme/1.4/1d.html" beforeDir="false" afterPath="$PROJECT_DIR$/dieukien1/1.4/1d.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doyouloveme/1.4/1d.js" beforeDir="false" afterPath="$PROJECT_DIR$/dieukien1/1.4/1d.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doyouloveme/1.5/1e.html" beforeDir="false" afterPath="$PROJECT_DIR$/dieukien1/1.5/1e.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doyouloveme/1.5/1e.js" beforeDir="false" afterPath="$PROJECT_DIR$/dieukien1/1.5/1e.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_vonglap/hienthisonguyentodautien/hienthisonguyentodautien.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ss8_vonglap/hienthisonguyentodautien/hienthisonguyentodautien.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_vonglap/vonglap1/3/3.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ss8_vonglap/vonglap1/3/3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_vonglap/vonglap2/1/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ss8_vonglap/vonglap2/1/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss8_vonglap/vonglap2/6/6.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ss8_vonglap/vonglap2/6/6.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,10 +76,103 @@
       <workItem from="1695992128577" duration="33000" />
       <workItem from="1696245017841" duration="6440000" />
       <workItem from="1696251795581" duration="72000" />
+      <workItem from="1696421744955" duration="3228000" />
+      <workItem from="1696425562208" duration="1210000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../ss8_vonglap/hienthisonguyentodautien/hienthisonguyentodautien.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../ss8_vonglap/hienthisonguyentodautien/hienthisonguyentodautien.js</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../ss8_vonglap/hienthisonguyentodautien/hienthisonguyentodautien.js</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../ss8_vonglap/hienthisonguyentodautien/hienthisonguyentodautien.js</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../ss8_vonglap/hienthisonguyentodautien/hienthisonguyentodautien.js</url>
+          <line>9</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../ss8_vonglap/hienthisonguyentodautien/hienthisonguyentodautien.js</url>
+          <line>10</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../ss8_vonglap/hienthisonguyentodautien/hienthisonguyentodautien.js</url>
+          <line>11</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../ss8_vonglap/hienthisonguyentodautien/hienthisonguyentodautien.js</url>
+          <line>12</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../ss8_vonglap/hienthisonguyentodautien/hienthisonguyentodautien.js</url>
+          <line>13</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../ss8_vonglap/hienthisonguyentodautien/hienthisonguyentodautien.js</url>
+          <line>14</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../ss8_vonglap/hienthisonguyentodautien/hienthisonguyentodautien.js</url>
+          <line>15</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../ss8_vonglap/hienthisonguyentodautien/hienthisonguyentodautien.js</url>
+          <line>16</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../ss8_vonglap/hienthisonguyentodautien/hienthisonguyentodautien.js</url>
+          <line>17</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../ss8_vonglap/hienthisonguyentodautien/hienthisonguyentodautien.js</url>
+          <line>18</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../ss8_vonglap/hienthisonguyentodautien/hienthisonguyentodautien.js</url>
+          <line>19</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../ss8_vonglap/hienthisonguyentodautien/hienthisonguyentodautien.js</url>
+          <line>20</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../ss8_vonglap/hienthisonguyentodautien/hienthisonguyentodautien.js</url>
+          <line>21</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
