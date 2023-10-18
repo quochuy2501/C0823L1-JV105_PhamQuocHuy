@@ -1,9 +1,9 @@
 let arr =[]
 let i = 0
 function nhapso() {
-    arr[i]=parseInt(document.getElementById("num").value) ;
+    arr[i]=parseInt(document.getElementById("num").value)
     i++
-    document.getElementById("num").value="";
+    document.getElementById("num").value=""
 }
 function hienthiso(){
     let max=arr[0]
