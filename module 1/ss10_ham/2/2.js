@@ -2,16 +2,17 @@ let foot = parseInt(prompt("Nhap so foot"))
 let meter = parseInt(prompt("Nhap so meter"))
 
 function footToMeter(foot) {
-    meter = 0.305 * foot
+    let meter = 0.305 * foot
     return meter
 }
 
+let resultMeter = footToMeter(foot)
+document.write(resultMeter + "<br>")
+
 function meterToFoot(meter) {
-    foot = 3.279 * meter
+    let foot = 3.279 * meter
     return foot
 }
 
-let resultmeter = footToMeter(foot)
-document.write(resultmeter + "<br>")
-let resultfoot = meterToFoot(meter)
-document.write(resultfoot)
+let resultFoot = meterToFoot(meter)
+document.write(resultFoot)
