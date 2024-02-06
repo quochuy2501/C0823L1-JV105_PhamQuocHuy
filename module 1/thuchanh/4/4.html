@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link
+            href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+            rel="stylesheet"
+            integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+            crossorigin="anonymous"
+    />
+    <title>Title</title>
+    <style>
+        table {
+            /*border-collapse: collapse;*/
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid #ccc;
+            text-align: left;
+        }
+        th {
+            background-color: #333;
+
+        }
+    </style>
+</head>
+<body>
+<div class="container m-2">
+    <p style="text-align: center">Danh Sách Bệnh Nhân</p>
+</div>
+<div id="root" class="container m-2"></div>
+<script>
+    class Student {
+        constructor(stt, ten,tuoi,diachi,sdt) {
+            this.stt = stt;
+            this.ten = ten;
+            this.tuoi = tuoi;
+            this.diachi=diachi;
+            this.sdt=sdt;
+        }
+
+        getstt() {
+            return this.stt;
+        }
+
+        setstt(stt) {
+            this.stt = stt;
+        }
+
+        getten() {
+            return this.ten;
+        }
+
+        setten(ten) {
+            this.ten = ten;
+        }
+
+        gettuoi() {
+            return this.tuoi;
+        }
+
+        settuoi(tuoi) {
+            this.tuoi = tuoi;
+
+        } getdiachi() {
+            return this.diachi;
+        }
+        setdiachi(diachi) {
+            this.diachi = diachi;
+
+        } getsdt() {
+            return this.sdt;
+        }
+
+        setsdt(sdt) {
+            this.sdt = sdt;
+        }
+    }
+    let students = [];
+
+    let phuongTD = new Student( "1", "Phạm Quốc Huy","20","Đà Nẵng","0932312314");
+    let phuongTH = new Student( "2", "Trần Đức Bo","26","Hà Nội","09323423434");
+    let phuongTG = new Student( "3", "Trần Thị Khánh Linh","21","Quảng Bình","09367856754");
+
+    students.push(phuongTD);
+    students.push(phuongTH);
+    students.push(phuongTG);
+
+    function displayStudents() {
+        let studentData = `<table  class="table table-bordered">
+        <thead>
+          <tr>
+            <th>STT</th>
+            <th>Họ Tên</th>
+            <th>Tuổi</th>
+            <th>Địa chỉ</th>
+            <th>SĐT</th>
+          </tr>
+        </thead>
+        <tbody>`;
+        for (let i = 0; i < students.length; i++) {
+            const student = students[i];
+            studentData += `<tr>
+            <td>${student.getstt()}</td>
+            <td>${student.getten()}</td>
+            <td>${student.gettuoi()}</td>
+            <td>${student.getdiachi()}</td>
+            <td>${student.getsdt()}</td>
+          </tr>`;
+        }
+        studentData += `</tbody>
+    </table>`;
+        document.getElementById("root").innerHTML = studentData;
+    }
+    displayStudents();
+
+</script>
+<script
+        src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"
+></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+</body>
+</html>
